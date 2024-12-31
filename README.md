@@ -38,7 +38,7 @@
 <p align="left">
 <a href="mailto:kailashparihar1999@gmail.com" target="blank"> <img align="center" src="https://img.shields.io/badge/Email-kailashparihar1999%40gmail.com-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="kailashparihar" />
 <a href="https://wa.me/919649352595" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="kailashparihar" />
-<a href="https://instagram.com/kailashparihar____" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kailashparihar____" /></a>
+<a href="https://instagram.com/thekailashparihar" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kailashparihar____" /></a>
 <a href="https://twitter.com/kailash_parihar" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kailash_parihar" /></a>
 </a>
 </p>
