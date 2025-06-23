@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kailash Parihar</h1>
 <h3 align="center">A passionate Full Stack Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kailash-parihar&label=Profile%20views&color=0e75b6&style=flat" alt="kailash-parihar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thekailashparihar&label=Profile%20views&color=0e75b6&style=flat" alt="thekailashparihar" /> </p>
 
 - 🔭 **I’m currently working on Creating A Chating Web Application**
 - 🌱 **I’m currently learning TypeScript, Docker, and Advanced Cloud Services**
@@ -29,8 +29,8 @@
 ### 📈 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kailash-parihar&show_icons=true&theme=radical" alt="kailash-parihar GitHub Status" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kailash-parihar&layout=compact&theme=radical" alt="kailash-parihar top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thekailashparihar&show_icons=true&theme=radical" alt="thekailashparihar GitHub Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekailashparihar&layout=compact&theme=radical" alt="thekailashparihar top languages" />
 </p>
 
 ### 📫 Connect with Me On
