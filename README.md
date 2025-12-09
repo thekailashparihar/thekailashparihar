@@ -57,15 +57,11 @@
 
 ---
 
-### 📊 GitHub Analytics
+### 📈 GitHub Status
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekailashparihar&show_icons=true&theme=radical" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekailashparihar&layout=compact&theme=radical" height="140" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekailashparihar&theme=radical" height="160" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thekailashparihar&show_icons=true&theme=radical" alt="thekailashparihar GitHub Status" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thekailashparihar&layout=compact&theme=radical" alt="thekailashparihar top languages" />
 </p>
 
 ---
